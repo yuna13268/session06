@@ -110,7 +110,7 @@ export default function Home() {
       <section className="intro">
         <p className="eyebrow">작은 순간도, 기록이 되니까</p>
         <h1>
-          유나의 한 줄 기록<span className="dot">.</span>
+          유나의 한 줄 기록!!<span className="dot">.</span>
         </h1>
         <p>오늘 배운 것, 기억에 남은 순간을 함께 나눠요.</p>
       </section>
